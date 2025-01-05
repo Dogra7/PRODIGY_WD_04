@@ -1,6 +1,6 @@
 Personal Portfolio Website
 
-This repository contains the source code for my personal portfolio website. It showcases my skills, projects, and accomplishments as a web developer, providing a comprehensive overview of my journey in the tech field.
+This repository contains the source code for my personal portfolio website created as part of my Web Development Internship Task at Prodigy InfoTech. It showcases my skills, projects, and accomplishments as a web developer, providing a comprehensive overview of my journey in the tech field.
 
 
 Features : -
